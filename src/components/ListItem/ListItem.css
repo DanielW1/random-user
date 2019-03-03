@@ -1,0 +1,9 @@
+.ListItem{
+
+border-bottom:  2px solid gray;
+
+}
+.ListItem:hover{
+    cursor: pointer;
+    background-color:rgb(212, 212, 212);
+}
